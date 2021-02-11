@@ -11,7 +11,7 @@ export const Container = styled.div`
 
 export const GithubLogo = styled(FaGithub)`
   fill: var(--logo);
-  height: 32ox;
+  height: 32px;
   width: 32px;
   flex-shrink: 0;
 `; 

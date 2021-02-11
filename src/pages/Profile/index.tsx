@@ -42,9 +42,12 @@ const Profile: React.FC = () => {
       const user = await userResponse.json();
       const repos = await reposResponse.json();
 
+      const shuffleRepos = repos.sort(() => .50 - Math.random());
+      const slicedRepos = shuffleRepos.slice(0, 6);
+
       setData({
         user,
-        repos,
+        repos: slicedRepos 
       });
     });
   }, [username]);
