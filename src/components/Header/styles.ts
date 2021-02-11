@@ -21,6 +21,7 @@ export const GithubLogo = styled(FaGithub)`
 export const SearchForm = styled.div`
   padding-left: 16px;
   width: 100%;
+  margin-right: 10px;
 
   input {
     background: var(--search);
