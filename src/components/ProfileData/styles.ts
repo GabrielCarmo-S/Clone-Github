@@ -45,6 +45,8 @@ export const Flex = styled.div`
 export const Avatar = styled.img`
   width: 16%;
   border-radius: 50%;
+  border: 1px solid #e1e4e8;
+  box-shadow: 0 0 0 1px transparent;
 
   @media (min-width: 768px) {
     width: 100%;

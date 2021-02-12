@@ -12,6 +12,19 @@
 ## :bookmark: Sobre
 
 Clone da interface do GitHub.
+
+<div align="center">
+  <img alt="demo-web" height="525" width="100%" src="./github/m1.gif" />
+</div>
+
+
+
+
+## Tela Mobile
+<div align="center">
+  <img alt="demo-mobile" height="525" src="./github/m2.gif" />
+</div>
+
 <a href="#" align="center">Para testar o clone.</a>
 
 ## :rocket: Tecnologias
