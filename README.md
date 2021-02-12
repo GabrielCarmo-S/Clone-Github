@@ -25,7 +25,7 @@ Clone da interface do GitHub.
   <img alt="demo-mobile" height="525" src="./github/m2.gif" />
 </div>
 
-<a href="#" align="center">Para testar o clone.</a>
+<a href="https://github-clone-gabrielcarmo-s.netlify.app" align="center">Para testar o clone.</a>
 
 ## :rocket: Tecnologias
 -  [ReactJS](https://reactjs.org/)
